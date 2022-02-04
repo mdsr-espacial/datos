@@ -1,6 +1,5 @@
-# Datos incluidos en el fichero zip
+# Datos de Visualización y geolocalización de datos con R
 
--   `municipios.gpkg`
--   `renta_municipio.csv`
--   `tempmin.csv`
--   `crime-data-Valencia.csv`
+Datos correspondientes a "Visualización y geolocalización de datos con R"
+
+
